@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Jeremias
 
-<!--
-**jeremiasVA/JeremiasVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Portada de GitHub](https://via.placeholder.com/1024x400/33363/FFFFFF?text=Bienvenido+a+mi+perfil+)](https://github.com/tu-usuario)  
 
-Here are some ideas to get you started:
+### 🌟 **Sobre mí**  
+- 🎓 **Estudio**: Ingenieria Informatica.
+- 💡 **Pasiones**: Me encantan los video juegos, la musica y programar muy tarde en la noche.  
+- 🚀 **Meta actual**: Aprobar mi materia de invierno 🫡.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 **Estadísticas de GitHub**  
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_title=true)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark)  
+
+
+### 💬 **Dato de vital importancia**  
+>  Los patos caminan como si estuvieran en pasarela. El movimiento de vaivén es flow natural 😎  
