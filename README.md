@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy Jeremias 🦆
+# ¡Hola! 👋 Soy Jeremias
 
-[![Pato](https://emojigraph.org/media/whatsapp/duck_1f986.png)  
+![Pato](https://emojigraph.org/media/whatsapp/duck_1f986.png)  
 
 ### 🌟 **Sobre mí**  
 - 🎓 **Estudio**: Ingenieria Informatica.
@@ -9,6 +9,7 @@
 
 ### 📊 **Estadísticas de GitHub**  
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=jeremiasVA&show_icons=true&theme=radical&include_all_commits=true)
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiasVA&layout=compact&theme=dark&hide=html,css&include_all_commits=true)
 
 
